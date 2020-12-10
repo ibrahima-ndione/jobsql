@@ -1,1 +1,1 @@
-SELECT * FROM etudiants WHERE naissance >= '2012-12-08';
+SELECT * FROM etudiants WHERE naissance <= '2002-12-08';
